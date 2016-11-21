@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "AC3496CA0981D7F01862BBE9155A99D06ADC2B04",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "AC3496CA0981D7F01862BBE9155A99D06ADC2B04" : 9223372036854775807,
+    "DD20A1A48C66B5213E0FEBB87A95EF51D6C6F3E8" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "10DF4E30-9FE5-4DA0-B535-2A65BA692EDC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "AC3496CA0981D7F01862BBE9155A99D06ADC2B04" : "ShoppingCartAnimation\/",
+    "DD20A1A48C66B5213E0FEBB87A95EF51D6C6F3E8" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ShoppingCartAnimation",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ShoppingCartAnimation.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/JoanLeeo\/ShoppingCartAnimation.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AC3496CA0981D7F01862BBE9155A99D06ADC2B04"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/AFNetworking\/AFNetworking.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DD20A1A48C66B5213E0FEBB87A95EF51D6C6F3E8"
+    }
+  ]
+}
