@@ -60,7 +60,7 @@
 }
 - (UITableView *)guessTableView {
     if (!_guessTableView) {
-        _guessTableView = [[UITableView alloc] initWithFrame:CGRectMake(0, 0, kScreenWidth, kScreenHeight)];
+        _guessTableView = [[UITableView alloc] initWithFrame:CGRectMake(0, 20, kScreenWidth, kScreenHeight)];
         _guessTableView.rowHeight = 156;
         _guessTableView.delegate = self;
         _guessTableView.dataSource = self;
