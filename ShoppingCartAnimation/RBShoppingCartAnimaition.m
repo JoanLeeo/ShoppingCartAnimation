@@ -36,10 +36,10 @@
     //计算抛物线---贝赛尔曲线的两个控制点
     CGFloat controlPointEY = 100;
     CGFloat controlPointEX = (endCenter.x - fromCenter.x) * 0.25f;
-    CGFloat controlPointX = (fromCenter.x + endCenter.x) * 0.5f;
-    CGFloat controlPointY = fromCenter.y < endCenter.y ? fromCenter.y : endCenter.y;
-    CGPoint controlPoint1 = CGPointMake(controlPointX - controlPointEX, controlPointY - controlPointEY);
-    CGPoint controlPoint2 = CGPointMake(controlPointX + controlPointEX, controlPointY - controlPointEY);
+    CGFloat controlPointCX = (fromCenter.x + endCenter.x) * 0.5f;
+    CGFloat controlPointCY = fromCenter.y < endCenter.y ? fromCenter.y : endCenter.y;
+    CGPoint controlPoint1 = CGPointMake(controlPointCX - controlPointEX, controlPointCY - controlPointEY);
+    CGPoint controlPoint2 = CGPointMake(controlPointCX + controlPointEX, controlPointCY - controlPointEY);
     
     
     NSString *str = ((UIButton *)animationView).titleLabel.text;
